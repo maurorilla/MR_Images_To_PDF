@@ -1,5 +1,7 @@
 # MR_Images_To_PDF
 
+Easy Windows program to create PDF from  Images.
+
 This program is offered under a commercial and under the AGPL license. 
 
 AGPL licensing:
