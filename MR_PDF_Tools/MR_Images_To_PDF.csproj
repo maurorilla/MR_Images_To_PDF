@@ -89,6 +89,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="PDF_ICO.ico" />
+    <None Include="Resources\PDF_Save_24_x24.png" />
+    <None Include="Resources\PDF_Save.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

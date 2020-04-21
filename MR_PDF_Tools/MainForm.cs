@@ -239,5 +239,11 @@ namespace MR_PDF_Tools
             pPreview.Image = null;
             lblsize.Text = "...";
         }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            ProcessStartInfo sInfo = new ProcessStartInfo("https://github.com/maurorilla/MR_Images_To_PDF");
+            Process.Start(sInfo);            
+        }
     }
 }
