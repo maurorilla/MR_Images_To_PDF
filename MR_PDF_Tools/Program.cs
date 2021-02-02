@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace MR_PDF_Tools
+namespace MR_Images_To_PDF
 {
     static class Program
     {
