@@ -2,7 +2,7 @@
 
 Easy Windows program to create PDF from  Images.
 
-This program is offered under a commercial and under the AGPL license. 
+This program is offered under the AGPL license.
 
 AGPL licensing:
 This program is free software: you can redistribute it and/or modify
